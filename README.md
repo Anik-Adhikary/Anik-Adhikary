@@ -3,7 +3,7 @@
 ---
 
 >_I love bridging the gap between hardware and software through innovative projects and ideas!_
-<!-- The appearance of yellow wiggly lines indicates a violation of MD013 - Line length, a rule that activates when any line exceeds the established limit of 80 characters. Rectifying this issue detract will hamper the aesthetic appeal of my profile biography-->
+<!-- The appearance of yellow wiggly lines indicates a violation of MD013 - Line length, a rule that activates when any line exceeds the established limit of 80 characters. Rectifying this issue will hamper the aesthetic appeal of my profile bio-->
 ## About me
 
 I’m a final-year B.Tech _Electrical Engineering_ student passionate about electrical and electronics systems.  
